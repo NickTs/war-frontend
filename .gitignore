@@ -1,0 +1,11 @@
+node_modules/
+.idea/
+*.swp
+*.lock
+package-lock.json
+public/en/*.js
+public/ru/*.js
+public/*.js
+private/en/*.js
+private/ru/*.js
+private/*.js
